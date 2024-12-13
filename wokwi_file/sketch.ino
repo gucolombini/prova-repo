@@ -1,7 +1,6 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-// #define led_azul 9 // Pino utilizado para controle do led azul
 #define led_verde 41 // Pino utilizado para controle do led verda
 #define led_vermelho 40 // Pino utilizado para controle do led vermelho
 #define led_amarelo 9 // Pino utilizado para controle do led azul
